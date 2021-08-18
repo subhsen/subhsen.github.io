@@ -11388,7 +11388,7 @@ p.lead {
   background-color: #495057;
   color: #fff;
   border-radius: 100%;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-right: 1.5rem;
 }
 .social-icons .social-icon:last-child {
@@ -11396,6 +11396,9 @@ p.lead {
 }
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
+  height: 3.5rem;
+  width: 3.5rem;
+  font-size: 2.3rem;
 }
 
 .dev-icons {
